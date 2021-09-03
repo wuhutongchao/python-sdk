@@ -7,6 +7,7 @@
 1. 解压，进入主目录下
 2. python setup.py install 安装
 3. import Demo 在python程序中，调用安装好的Demo包
+
 python3进入python
 输入:1、导入类:import Demo
      2、调用方法:Demo.demo()
