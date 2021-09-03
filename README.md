@@ -10,9 +10,10 @@
 
 python3进入python
 
-输入:1、导入类:import Demo
+输入:
+1、导入类:import Demo
 
-     2、调用方法:Demo.demo()
+2、调用方法:Demo.demo()
      
-     输出:simple sdk demo
+输出:simple sdk demo
      
